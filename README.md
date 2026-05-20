@@ -1,0 +1,1 @@
+# Test Harness — Automated Quality Gate\n\nAutomated test suite runner with coverage, mutation testing, and multi-model validation — catch regressions before they ship\n\nSee [SKILL.md](./SKILL.md) for the full guide.\n\n---\nIf this saved you time: [PayPal.me/nerudek](https://www.paypal.me/nerudek)\nGitHub: [github.com/nerudek](https://github.com/nerudek)
